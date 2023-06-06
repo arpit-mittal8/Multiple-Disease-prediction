@@ -25,7 +25,7 @@ To install and run the Disease Prediction System locally, follow these steps:
 
 1- Clone the repository:
 
-git clone https://github.com/your-username/disease-prediction-system.git
+git clone https://github.com/arpit-mittal8/Multiple-Disease-prediction.git
 
 2- Navigate to the project directory:
 
